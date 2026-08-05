@@ -1,6 +1,7 @@
 # Copyright Policy
 
 **Effective Date:** August 5, 2026
+
 **Applies To:** Fira Music
 
 Fira respects intellectual property rights and is committed to operating in accordance with applicable copyright laws. This policy explains how copyrighted material may appear within the Service and how copyright owners can contact us.
