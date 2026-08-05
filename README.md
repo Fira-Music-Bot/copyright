@@ -1,64 +1,90 @@
-# Copyright Notice
+# Copyright Policy
 
-Everything related to Fira's ownership, intellectual property, third-party services, and copyright requests.
+**Effective Date:** August 5, 2026
+**Applies To:** Fira Music
 
----
-
-## Intellectual Property
-
-Fira, including its name, branding, website, documentation, graphics, and software, is the intellectual property of the Fira Team.
-
-Unless explicitly permitted in writing, you may not copy, distribute, modify, reverse engineer, or commercially use any part of Fira or its assets.
+Fira respects intellectual property rights and is committed to operating in accordance with applicable copyright laws. This policy explains how copyrighted material may appear within the Service and how copyright owners can contact us.
 
 ---
 
-## Technology
+## 1. About Fira
 
-Fira is powered by several open-source technologies and cloud services, including:
-
-* Discord.js
-* TypeScript
-* Node.js
-* PostgreSQL
-* Lavalink
-* LavalinkClient
-
-We appreciate the developers and communities behind these projects for making modern Discord applications possible.
+Throughout this policy, **"Fira," "we," "our,"** and **"the Service"** refer to the Fira Discord bot, its dashboard, website, documentation, and any related services operated by the Fira Team.
 
 ---
 
-## How Music Works
+## 2. Intellectual Property
 
-Fira is a music playback client—not a music hosting platform.
+Fira is proprietary software. The source code, branding, documentation, graphics, and other original assets created for Fira are owned by the Fira Team and are protected under applicable copyright and intellectual property laws.
 
-Tracks are requested from supported music providers and streamed through Lavalink to your Discord voice channel. Fira does not maintain a library of songs or permanently store copyrighted audio on its servers.
-
-Availability of content depends entirely on the respective provider.
+Except where expressly permitted, these materials may not be copied, modified, redistributed, reverse engineered, or used for commercial purposes without prior written permission.
 
 ---
 
-## Third-Party Services
+## 3. Third-Party Content
 
-Fira integrates with a number of external platforms to provide its features.
+Fira may display information related to music, such as song titles, artist names, album names, cover artwork, playlists, and other metadata obtained from supported third-party services.
 
-Names such as Discord, Spotify, Apple Music, Deezer, YouTube, SoundCloud, Top.gg, and other trademarks remain the exclusive property of their respective owners. Any reference to these brands is purely for compatibility and identification purposes and should not be interpreted as an endorsement, partnership, or sponsorship.
+Ownership of this content remains with its respective copyright holders. Displaying this information within Fira does not transfer ownership to Fira or its users.
 
 ---
 
-## Copyright Notice
+## 4. Music Playback
 
-We respect intellectual property rights.
+Fira is a playback and discovery service. It does not publish, upload, archive, or permanently store copyrighted audio on its own servers.
 
-If you believe material made available through Fira violates your copyright, please contact us through our support server with sufficient information to investigate the request.
+When a user requests music, playback is facilitated through supported streaming technologies and third-party providers. Audio is delivered only during the active listening session and is not retained by Fira after playback ends.
 
-To help us process your report, include:
+Content availability may change at any time depending on the source provider.
 
-* The content you are referring to.
+---
+
+## 5. External Services
+
+To provide its features, Fira integrates with various third-party platforms, APIs, and developer services.
+
+These may include services such as Discord, Spotify, Apple Music, Deezer, YouTube, SoundCloud, Lavalink, Top.gg, and other compatible providers.
+
+All trademarks, logos, service names, and copyrights remain the exclusive property of their respective owners. Their inclusion within Fira is solely for compatibility, identification, or interoperability and does not imply any endorsement, sponsorship, partnership, or affiliation.
+
+---
+
+## 6. User Responsibility
+
+Users are responsible for ensuring that their use of Fira complies with applicable copyright laws, local regulations, and the terms of any third-party services they access through the Service.
+
+Fira does not encourage or authorize the infringement of intellectual property rights.
+
+---
+
+## 7. Copyright Reports
+
+If you believe that material accessible through Fira infringes your copyright, you may contact the Fira Team through our official support channels.
+
+To help us process your request efficiently, please include:
+
+* A description of the copyrighted work.
+* The specific content involved.
 * Where you encountered it within Fira.
-* Evidence that you own or represent the copyright.
-* Your preferred contact information.
+* Proof of ownership or authorization.
+* Contact information for further communication.
 
-Valid reports will be reviewed as quickly as possible.
+After reviewing a valid request, we may remove, restrict, or otherwise limit access to the reported content where appropriate.
 
+---
 
-*Last revised: August 5, 2026*
+## 8. Policy Updates
+
+This Copyright Policy may be revised periodically to reflect legal, operational, or technical changes.
+
+The most recent version published in Fira's documentation will always supersede previous versions.
+
+---
+
+## 9. Contact
+
+For copyright inquiries, intellectual property concerns, or takedown requests, please contact the Fira Team through our official support server or the contact information provided on our website.
+
+---
+
+**© 2026 Fira Team. All rights reserved.**
